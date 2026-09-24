@@ -1,0 +1,9 @@
+{
+    "name": "Detach All Instances",
+    "description": "Recursively detaches every component instance found inside the selected board(s) or shape(s).",
+    "code": "plugin.js",
+    "icon": "icon.png",
+    "permissions": [
+        "content:write"
+    ]
+}
