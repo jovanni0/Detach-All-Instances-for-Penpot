@@ -2,6 +2,8 @@
 
 Recursively detaches every component instance found inside the currently selected board(s) or shape(s), including instances nested inside other instances.
 
+Install the plugin with the link: https://detach-all-instances.penpot.jovanni0.dev/manifest.json
+
 ## Using it
 
 1. Select one or more boards (or any shapes/groups) on the canvas.
